@@ -2,11 +2,15 @@
 
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course. This will be listed as the course description in the course catalog.
+The leaders of products, teams, companies, and companies have the super power of analyzing and exploring the ethics of choices they and their communities make. Participants in this course will gain mastery in the super power of ethical analysis by exploring the histories and ramifications of issues in technology that concern them. If we, as engineers, are going to build the future of technology, then we ought to spend some time looking directly at the risks and benefits of compromising our privacy, the challenge of bias and diversity, the hopes and terrors of technological unemployment, the dream and nightmare of artificial intelligence, and many other issues that we face.
 
 ### Why Are We Learning This?
 
+Learning ethics will help you directly in your career in multiple ways:
 
+1. **Impact**—many people are concerned with not just working, but having a large impact on systems and the world. Ethical analysis will give you tools to assess the impact of your work and help you decide which projects you want to join.
+1. **Behavioral Interviewing**—the depth of knowledge you bring to the ethical technical issues will differentiate you from other engineers that can only code.
+1. **Leadership**—after one or two years as a junior engineer you will likely enter a role with more leadership and power. If you can do ethical analysis, you will be more likely to be promoted and you will do a better job of leading a team, product, or company.
 
 ## Course Specifics
 
@@ -28,108 +32,46 @@ None
 
 Students by the end of the course will be able to ...
 
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Practice
+1. Explain what ethics is, why we study ethics, and what benefits we get by studying ethics and being ethical.
+1. Explain where to go for help with ethical issues
+1. How to navigate common ethical dilemmas that arise in the context of technical work
+1. Engage in respectful ethical discourse (i.e. learn how to respectfully win disagreements on the internet)
+
 
 ## Schedule
----
-### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE APRIL 1]**
-If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
 
----
-### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE APRIL 1]**
-**Course Dates:** Monday, April 1 – Wednesday, May 15, 2019 (7 weeks)
+1. Why Be Good?—
+2. The Ethics of Donuts
+3. Don't Be Evil
+4. Personal Ethics - ???
+5. Society Ethics - Climate Change
+6. Unconscious Bias - Design
+7. Writing Day
+8. Society Ethics - Oligarchy, Corporatism, and Authoritarianism
+9. Society Ethics - AI
+10. Writing Day
+11. Unconscious Bias - Inclusion
+12. Society Ethics - Economic Justice & Technological Unemployment
+13. Technical Ethics - Blockchain
+14. Personal Ethics - Maximize Shareholder Value
 
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (14 class sessions)
+## Projects
 
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Monday, April 1                         | [Lesson 1] |
-|  2 |  Wednesday, April 3                      | [Lesson 2] |
-|  3 |  Monday, April 8                         | [Lesson 3] |
-|  4 |  Wednesday, April 10                     | [Lesson 4] |
-|  5 |  Monday, April 15                        | [Lesson 5] |
-|  6 |  Wednesday, April 17                     | [Lesson 6] |
-|  7 |  Monday, April 22                        | [Lesson 7] |
-|  8 |  Wednesday, April 24                     | [Lesson 8] |
-|  9 |  Monday, April 29                        | [Lesson 9] |
-| 10 |  Wednesday, May 1                        | [Lesson 10] |
-| 11 |  Monday, May 6                           | [Lesson 11] |  
-| 12 |  Wednesday, May 8                        | [Lesson 12] |
-| 13 |  Monday, May 13                          | Final Class (presentations, etc) |
-| 14 |  Wednesday, May 15                       | Final Exams/Presentations |
-
-### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE APRIL 1]**
-**Course Dates:** Tuesday, April 2 – Thursday, May 16, 2019 (7 weeks)
-
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tuesday, April 2                        | [Lesson 1] |
-|  2 |  Thursday, April 4                       | [Lesson 2] |
-|  3 |  Tuesday, April 9                        | [Lesson 3] |
-|  4 |  Thursday, April 11                      | [Lesson 4] |
-|  5 |  Tuesday, April 16                       | [Lesson 5] |
-|  6 |  Thursday, April 18                      | [Lesson 6] |
-|  7 |  Tuesday, April 23                       | [Lesson 7] |
-|  8 |  Thursday, April 25                      | [Lesson 8] |
-|  9 |  Tuesday, April 30                       | [Lesson 9] |
-| 10 |  Thursday, May 2                         | [Lesson 10] |
-| 11 |  Tuesday, May 7                          | [Lesson 11] |  
-| 12 |  Thursday, May 9                         | [Lesson 12] |
-| 13 |  Tuesday, May 14                         | Final Class (presentations, etc) |
-| 14 |  Thursday, May 16                        | Final Exams/Presentations |
-
-[Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-
-## Class Assignments
-
-- List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
-- Under each assignment link the rubric used to evaluate it or describe how it is evaluated.
-- Projects should be linked to a project page which has a description & requirements.
-
-### Projects
-
-- Write a blog post on an ethical issue
-  - Must be >1000 words
+1. Pick an issue and write your own letter from one audience to another, a la the Google employee letter against war to Google CEO, executives, and shareholders. (500 words)
+1. Write a research paper on the the history of an ethical issue. List solutions that others presented. Which one was implemented? What was the result? (1500 words)
+  - Must be >1500 words
   - Should be informative, persuasive, and entertaining
   - Must use current and historical evidence to support any ethical analysis or conclusions.
   - Connect your issue to at least one of the ethical philosophies.
-
-#### Why are we doing this?
-
-We want to encourage best practices that you will see working as a professional software engineer. Breaking up a project by doing a large amount of commits helps engineers in the following ways:
-
-- It's much easier to retrace your steps if you break your project/product/code up into smaller pieces
-- It helps with being able to comprehend the larger problem, and also will help with your debugging (i.e. finding exactly when you pushed that piece of broken code)
-- It allows for more streamlined, iterative communication in your team, as it's much easier to hand off a small change to someone (updating a function) than a huge one (changed the architecture of the project)
-
-Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
-
-### Other Class assignments
+1. Doctors have to take the Hippocratic Oath. Write your own hippocratic oath for engineers, that you believe you ought to follow.
+1. Final exam - will be a 2 hour essay.
 
 ## Evaluation
-**[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]**
+
 To pass this course you must meet the following requirements:
 
-- Complete all required tutorials
-- Pass all projects according to the associated project rubric
-- Pass the final summative assessment >=75%
+- Complete all writing assignments
+- Pass the final summative assessment >=70%
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
