@@ -1,8 +1,9 @@
-# Beyond Good and Eval
+# Ethics and Justice in Tech 
+## Beyond Good and Eval
 
 ## Course Description
 
-The leaders of products, teams, companies, and companies have the super power of analyzing and exploring the ethics of choices they and their communities make. Participants in this course will gain mastery in the super power of ethical analysis by exploring the histories and ramifications of issues in technology that concern them. If we, as engineers, are going to build the future of technology, then we ought to spend some time looking directly at the risks and benefits of compromising our privacy, the challenge of bias and diversity, the hopes and terrors of technological unemployment, the dream and nightmare of artificial intelligence, and many other issues that we face.
+The leaders of products, teams, companies, and companies have the super power of analyzing and exploring the ethics of choices they and their communities make. Participants in this course will gain mastery in the super power of ethical reasoning by exploring the histories and ramifications of issues in technology that concern them. If we, as engineers, are going to build the future of technology, then we ought to look directly at the risks and benefits of compromising our privacy, the challenge of bias and diversity, the hopes and terrors of technological unemployment, the dream and nightmare of artificial intelligence, and many other issues that we face.
 
 ### Why Are We Learning This?
 
@@ -35,8 +36,7 @@ Students by the end of the course will be able to ...
 1. Explain what ethics is, why we study ethics, and what benefits we get by studying ethics and being ethical.
 1. Explain where to go for help with ethical issues
 1. How to navigate common ethical dilemmas that arise in the context of technical work
-1. Engage in respectful ethical discourse (i.e. learn how to respectfully win disagreements on the internet)
-
+1. Engage in respectful and objective ethical discourse
 
 ## Schedule
 
