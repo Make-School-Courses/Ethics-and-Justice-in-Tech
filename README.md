@@ -29,14 +29,13 @@ None
 
 ## Learning Outcomes
 
-**[INSTRUCTOR NOTE: PLEASE LIST (5-8) LEARNING OUTCOMES]**
-
 Students by the end of the course will be able to ...
 
 1. Explain what ethics is, why we study ethics, and what benefits we get by studying ethics and being ethical.
-1. Explain where to go for help with ethical issues
-1. How to navigate common ethical dilemmas that arise in the context of technical work
 1. Engage in respectful and objective ethical discourse
+1. How to navigate common ethical dilemmas that arise in the context of technical work and within the current events in tech
+1. Gain familiarity with some of the major formal theories of ethics and justice.
+1. Explain where to go for help with ethical issues
 
 ## Schedule
 
