@@ -1,5 +1,5 @@
 # Ethics and Justice in Tech 
-## Beyond Good and Eval
+## Don't Be Evil
 
 ## Course Description
 
