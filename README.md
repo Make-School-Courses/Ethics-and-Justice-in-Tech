@@ -44,7 +44,7 @@ Students by the end of the course will be able to ...
 3. The Ethics & Justice of Donuts
 4. Equality & Equity
 5. Artificial Intellgence & Technological Unemployment
-6. Do the Right Thing
+6. "Do the Right Thing"
 6. Climate Change
 7. Writing Day
 8. Unconscious Bias - Design
