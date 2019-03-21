@@ -39,20 +39,20 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-1. Why Be Good?—
-2. The Ethics of Donuts
-3. Don't Be Evil
-4. Personal Ethics - ???
-5. Society Ethics - Climate Change
-6. Unconscious Bias - Design
+1. Introduction—Why Be Good?
+2. Privacy
+3. The Ethics & Justice of Donuts
+4. Equality & Equity
+5. Artificial Intellgence & Technological Unemployment
+6. Do the Right Thing
+6. Climate Change
 7. Writing Day
-8. Society Ethics - Oligarchy, Corporatism, and Authoritarianism
-9. Society Ethics - AI
+8. Unconscious Bias - Design
+9. Genetic Engineering - Mosquitos, Crispr Gene Drives
 10. Writing Day
 11. Unconscious Bias - Inclusion
-12. Society Ethics - Economic Justice & Technological Unemployment
-13. Technical Ethics - Blockchain
-14. Personal Ethics - Maximize Shareholder Value
+12. Maximize Shareholder Value
+13. Final Exam Day
 
 ## Projects
 
