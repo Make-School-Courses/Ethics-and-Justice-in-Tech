@@ -58,10 +58,11 @@ Students by the end of the course will be able to ...
 
 1. Pick an issue and write your own letter from one audience to another, a la the Google employee letter against war to Google CEO, executives, and shareholders. (500 words)
 1. Write a research paper on the the history of an ethical issue. List solutions that others presented. Which one was implemented? What was the result? (1500 words)
-  - Must be >1500 words
-  - Should be informative, persuasive, and entertaining
-  - Must use current and historical evidence to support any ethical analysis or conclusions.
-  - Connect your issue to at least one of the ethical philosophies.
+    - Must be >1500 words
+    - Should be informative, persuasive, and entertaining
+    - Must use current and historical evidence to support any ethical analysis or conclusions
+    - Must include and cite evidence and quotes (link to source)
+    - Connect your issue to at least one of the ethical philosophies
 1. Doctors have to take the Hippocratic Oath. Write your own hippocratic oath for engineers, that you believe you ought to follow.
 1. Final exam - will be a 2 hour essay.
 
