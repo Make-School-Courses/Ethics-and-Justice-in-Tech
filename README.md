@@ -3,7 +3,7 @@
 
 ## Course Description
 
-The leaders of products, teams, companies, and companies have the super power of analyzing and exploring the ethics of choices they and their communities make. Participants in this course will gain mastery in the super power of ethical reasoning by exploring the histories and ramifications of issues in technology that concern them. If we, as engineers, are going to build the future of technology, then we ought to look directly at the risks and benefits of compromising our privacy, the challenge of bias and diversity, the hopes and terrors of technological unemployment, the dream and nightmare of artificial intelligence, and many other issues that we face.
+The leaders of products, teams, and companies have the super power of analyzing and exploring the ethics of choices they and their communities make. Participants in this course will gain mastery in the super power of ethical reasoning by exploring the histories and ramifications of issues in technology that concern them. If we, as engineers, are going to build the future of technology, then we ought to look directly at the risks and benefits of compromising our privacy, the challenge of bias and diversity, the hopes and terrors of technological unemployment, the dream and nightmare of artificial intelligence, and many other issues that we face.
 
 ### Why Are We Learning This?
 
